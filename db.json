@@ -1,34 +1,34 @@
 {
-    "tasks":[
-        {
-            "id": 1,
-            "text": "Terminar Argentina Programa",
-            "day": "15 de Enero a las 23:59",
-            "reminder": true
-        },
-        {
-            "id": 2,
-            "text": "Terminar Curso de masajes",
-            "day": "17 de marzo a las 17:00",
-            "reminder": true
-        },
-        {
-            "id": 3,
-            "text": "Terminar Curso de robotica e impresion 3D",
-            "day": "9 de diciembre a las 21:00",
-            "reminder": true
-        },
-        {
-            "id": 4,
-            "text": "Terminar 5to de secundaria tecnica",
-            "day": "18 de noviembre a las 12:30",
-            "reminder": false
-        },
-        {
-            "id": 5,
-            "text": "Viajar a inglaterra a trabajar",
-            "day": "23 de noviembre a las 12:30",
-            "reminder": false
-        }
-    ]
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Terminar Argentina Programa",
+      "day": "15 de Enero a las 23:59",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Terminar Curso de masajes",
+      "day": "17 de marzo a las 17:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Terminar Curso de robotica e impresion 3D",
+      "day": "9 de diciembre a las 21:00",
+      "reminder": true
+    },
+    {
+      "text": "Terminar 5to ",
+      "day": "18 de Noviembre",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Terminar con angular",
+      "day": "4 de octubre",
+      "reminder": true,
+      "id": 5
+    }
+  ]
 }
